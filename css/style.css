@@ -49,6 +49,13 @@ body {
     overflow-x: hidden;
 }
 
+ht{
+    margin: 0;
+    padding: 0;
+    direction: ltr;
+    font-size: 28px;
+}
+
 p {
     line-height: 25px;
 }
