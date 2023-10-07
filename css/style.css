@@ -49,13 +49,6 @@ body {
     overflow-x: hidden;
 }
 
-ht{
-    margin: 0;
-    padding: 0;
-    direction: ltr;
-    font-size: 28px;
-}
-
 p {
     line-height: 25px;
 }
@@ -133,18 +126,18 @@ figure {
 }
 
 .page-border > .top-border, .page-border > .right-border, .page-border > .bottom-border, .page-border > .left-border {
-    padding: 11px;
+    padding: 0px;
     background: #ccc;
 }
 
 .page-border .bottom-border, .page-border .top-border {
     width: 100%;
-    padding: 10px;
+    padding: 0px;
     left: 0;
 }
 
 .page-border .left-border, .page-border .right-border {
-    padding: 10px;
+    padding: 0px;
     height: 100%;
     top: 0;
 }
